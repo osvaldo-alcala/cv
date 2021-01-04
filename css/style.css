@@ -1,0 +1,49 @@
+/******** TAG  SELECTOR ********/
+body {
+    background-color: #f1f6f9;
+}
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    background-color: white;
+    height: 0px;
+    width:10%;
+}
+
+img{
+    height: 200px;
+}
+
+img:hover {
+height: 200px;
+/*
+background-color: "red";
+*/
+
+}
+p {color: #065c6f;}
+li {color: #065c6f;}
+tr {color: #065c6f;}
+h1 { color: #145374;}
+h3 { color: #07689f;}
+
+/* *******  CLASS SELECTOR      ********/
+
+.main-par{
+    width: 30%
+}
+
+.profile {
+    background-color: "white";
+}
+
+.circular {
+ border-radius: 100%
+}
+/* *******  id SELECTOR      ********/
+
+#heading {
+    background-color: "blue":
+}
